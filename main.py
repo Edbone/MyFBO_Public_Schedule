@@ -233,7 +233,7 @@ def remove_duplicate_flights(calendar_list):
 
 
 # Start browser
-driver = webdriver.Chrome()
+driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()))
 # Go to the top-level page with <frameset>
 driver.get("https://prod.myfbo.com/link.asp?fbo=aoal")
 
