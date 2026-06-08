@@ -2,75 +2,95 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DTEND:20260703T200000Z
+DTEND:20260609T160000Z
 LOCATION:391 Herndon Ave Suite A\, Orlando\, FL 32803
-DTSTART:20260703T180000Z
+DTSTART:20260609T140000Z
+SUMMARY:Reservation with Written Prep ﻿Ground School and Eddie Jackson
+UID:d401a8f0-2df6-4578-8809-ececec3d022d@d401.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260618T200000Z
+LOCATION:391 Herndon Ave Suite A\, Orlando\, FL 32803
+DTSTART:20260618T180000Z
 SUMMARY:Reservation with Private Pilot ﻿Ground School and Eddie Jackson
-UID:2af54e5e-4dd4-4fa7-8f35-b2a604a7b3b9@2af5.org
+UID:b3b19f64-135a-48fa-999b-c9b59df0ffb8@b3b1.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260623T180000Z
+LOCATION:391 Herndon Ave Suite A\, Orlando\, FL 32803
+DTSTART:20260623T160000Z
+SUMMARY:Reservation with Instrument Rating ﻿Ground School and Eddie Jackson
+UID:8afc8538-bac0-4045-b0e9-c11b7fabd2d0@8afc.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260729T160000Z
+LOCATION:391 Herndon Ave Suite A\, Orlando\, FL 32803
+DTSTART:20260729T140000Z
+SUMMARY:Reservation with Written Prep ﻿Ground School and Eddie Jackson
+UID:d5bde2a0-8a20-44b9-ad7b-620ef2cbde84@d5bd.org
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20260707T160000Z
 LOCATION:391 Herndon Ave Suite A\, Orlando\, FL 32803
 DTSTART:20260707T140000Z
 SUMMARY:Reservation with Written Prep ﻿Ground School and Eddie Jackson
-UID:fe8c233b-318e-4501-92b0-96e989be90fe@fe8c.org
+UID:86ee89e2-683a-43f3-b91f-11e6471c3ac8@86ee.org
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20260715T180000Z
+DTEND:20260714T160000Z
 LOCATION:391 Herndon Ave Suite A\, Orlando\, FL 32803
-DTSTART:20260715T160000Z
-SUMMARY:Reservation with Instrument Rating ﻿Ground School and Eddie Jackson
-UID:5cabb482-e707-46a1-a7e6-5658739b8c62@5cab.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260624T200000Z
-LOCATION:391 Herndon Ave Suite A\, Orlando\, FL 32803
-DTSTART:20260624T180000Z
-SUMMARY:Reservation with Private Pilot ﻿Ground School and Eddie Jackson
-UID:8d729090-55cd-4624-aef2-851f0e1ba40c@8d72.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260609T160000Z
-LOCATION:391 Herndon Ave Suite A\, Orlando\, FL 32803
-DTSTART:20260609T140000Z
+DTSTART:20260714T140000Z
 SUMMARY:Reservation with Written Prep ﻿Ground School and Eddie Jackson
-UID:6ecca334-0d30-4294-842b-549d167158f6@6ecc.org
+UID:a9ff8a89-adb5-4fce-9077-47b195a2ad4e@a9ff.org
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20260616T200000Z
+DTEND:20260710T180000Z
 LOCATION:391 Herndon Ave Suite A\, Orlando\, FL 32803
-DTSTART:20260616T180000Z
-SUMMARY:Reservation with Private Pilot ﻿Ground School and Eddie Jackson
-UID:db03daa9-8ead-471a-8c1f-6eae9671ce59@db03.org
+DTSTART:20260710T160000Z
+SUMMARY:Reservation with Instrument Rating ﻿Ground School and Eddie Jackson
+UID:4f0be82a-177a-4e3b-a75c-0806f45e03a4@4f0b.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260610T180000Z
+LOCATION:391 Herndon Ave Suite A\, Orlando\, FL 32803
+DTSTART:20260610T160000Z
+SUMMARY:Reservation with Instrument Rating ﻿Ground School and Eddie Jackson
+UID:f990b903-4314-482b-a2c5-5de5ac18f74d@f990.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260717T180000Z
+LOCATION:391 Herndon Ave Suite A\, Orlando\, FL 32803
+DTSTART:20260717T160000Z
+SUMMARY:Reservation with Instrument Rating ﻿Ground School and Eddie Jackson
+UID:f52fa2b4-8b45-4c8e-877d-7013692d6afe@f52f.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260714T180000Z
+LOCATION:391 Herndon Ave Suite A\, Orlando\, FL 32803
+DTSTART:20260714T160000Z
+SUMMARY:Reservation with Instrument Rating ﻿Ground School and Eddie Jackson
+UID:b463c266-0608-40f2-b61e-e56c5b0b0a1b@b463.org
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20260609T180000Z
 LOCATION:391 Herndon Ave Suite A\, Orlando\, FL 32803
 DTSTART:20260609T160000Z
 SUMMARY:Reservation with Instrument Rating ﻿Ground School and Eddie Jackson
-UID:83c0eaab-3753-4cd7-aa3a-70735a5170e8@83c0.org
+UID:c8676b9f-bb61-4632-b5c4-8ce4877e293c@c867.org
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20260728T160000Z
+DTEND:20260702T200000Z
 LOCATION:391 Herndon Ave Suite A\, Orlando\, FL 32803
-DTSTART:20260728T140000Z
-SUMMARY:Reservation with Written Prep ﻿Ground School and Eddie Jackson
-UID:bebce3c6-8c0c-43fe-ad7a-984921ec027f@bebc.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260617T200000Z
-LOCATION:391 Herndon Ave Suite A\, Orlando\, FL 32803
-DTSTART:20260617T180000Z
+DTSTART:20260702T180000Z
 SUMMARY:Reservation with Private Pilot ﻿Ground School and Eddie Jackson
-UID:41c4ddd4-e3ec-475a-b73b-f052b3579829@41c4.org
+UID:ef313294-441d-4265-aa95-12d89ce57644@ef31.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:\nKnowledge Test Prep 
-DTEND:20260807T160000Z
+DTEND:20260805T160000Z
 LOCATION:391 Herndon Ave Suite A\, Orlando\, FL 32803
-DTSTART:20260807T140000Z
+DTSTART:20260805T140000Z
 SUMMARY:Reservation with Written Prep ﻿Ground School and Eddie Jackson
-UID:77f8b43b-d23a-44c8-b978-58540220be65@77f8.org
+UID:1f98eb81-35d2-4114-b214-584434c89b9e@1f98.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:\nKnowledge Test Prep 
@@ -78,560 +98,35 @@ DTEND:20260626T160000Z
 LOCATION:391 Herndon Ave Suite A\, Orlando\, FL 32803
 DTSTART:20260626T140000Z
 SUMMARY:Reservation with Written Prep ﻿Ground School and Eddie Jackson
-UID:54f73ea6-6580-4843-91a9-f99d3c83e3be@54f7.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260612T200000Z
-LOCATION:391 Herndon Ave Suite A\, Orlando\, FL 32803
-DTSTART:20260612T180000Z
-SUMMARY:Reservation with Private Pilot ﻿Ground School and Eddie Jackson
-UID:3cdd00ee-21d9-4bb1-bc8f-29cd9c713c7e@3cdd.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260716T160000Z
-LOCATION:391 Herndon Ave Suite A\, Orlando\, FL 32803
-DTSTART:20260716T140000Z
-SUMMARY:Reservation with Written Prep ﻿Ground School and Eddie Jackson
-UID:0b0048a8-9403-4840-9283-aca4227805cd@0b00.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260610T180000Z
-LOCATION:391 Herndon Ave Suite A\, Orlando\, FL 32803
-DTSTART:20260610T160000Z
-SUMMARY:Reservation with Instrument Rating ﻿Ground School and Eddie Jackson
-UID:e43ef80f-9978-4c6e-aa76-4de9664a1d55@e43e.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260630T160000Z
-LOCATION:391 Herndon Ave Suite A\, Orlando\, FL 32803
-DTSTART:20260630T140000Z
-SUMMARY:Reservation with Written Prep ﻿Ground School and Eddie Jackson
-UID:1b59a258-93f5-42c3-aef0-d8861fcca9bf@1b59.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260722T160000Z
-LOCATION:391 Herndon Ave Suite A\, Orlando\, FL 32803
-DTSTART:20260722T140000Z
-SUMMARY:Reservation with Written Prep ﻿Ground School and Eddie Jackson
-UID:640de72c-9caf-4ed9-90dc-4401a238cf2f@640d.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260729T200000Z
-LOCATION:391 Herndon Ave Suite A\, Orlando\, FL 32803
-DTSTART:20260729T180000Z
-SUMMARY:Reservation with Private Pilot ﻿Ground School and Eddie Jackson
-UID:32898207-087b-4995-9d32-f4c251407e7a@3289.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260612T180000Z
-LOCATION:391 Herndon Ave Suite A\, Orlando\, FL 32803
-DTSTART:20260612T160000Z
-SUMMARY:Reservation with Instrument Rating ﻿Ground School and Eddie Jackson
-UID:344d6f02-1f99-49aa-a430-457c0f2deb93@344d.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260707T200000Z
-LOCATION:391 Herndon Ave Suite A\, Orlando\, FL 32803
-DTSTART:20260707T180000Z
-SUMMARY:Reservation with Private Pilot ﻿Ground School and Eddie Jackson
-UID:6c96768a-3aa8-4731-a0ea-191195d4f2e2@6c96.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260617T180000Z
-LOCATION:391 Herndon Ave Suite A\, Orlando\, FL 32803
-DTSTART:20260617T160000Z
-SUMMARY:Reservation with Instrument Rating ﻿Ground School and Eddie Jackson
-UID:448f8a50-695f-4bc3-9383-229db9894d9f@448f.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260708T200000Z
-LOCATION:391 Herndon Ave Suite A\, Orlando\, FL 32803
-DTSTART:20260708T180000Z
-SUMMARY:Reservation with Private Pilot ﻿Ground School and Eddie Jackson
-UID:f2a646ae-795f-478f-b5a8-9fc89511ab3e@f2a6.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260715T160000Z
-LOCATION:391 Herndon Ave Suite A\, Orlando\, FL 32803
-DTSTART:20260715T140000Z
-SUMMARY:Reservation with Written Prep ﻿Ground School and Eddie Jackson
-UID:8c3209e2-5df6-4c92-a115-1d5c6001dfa0@8c32.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260611T200000Z
-LOCATION:391 Herndon Ave Suite A\, Orlando\, FL 32803
-DTSTART:20260611T180000Z
-SUMMARY:Reservation with Private Pilot ﻿Ground School and Eddie Jackson
-UID:209efd3a-3636-4ddb-bbe7-7b948953efc5@209e.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260709T160000Z
-LOCATION:391 Herndon Ave Suite A\, Orlando\, FL 32803
-DTSTART:20260709T140000Z
-SUMMARY:Reservation with Written Prep ﻿Ground School and Eddie Jackson
-UID:be57ceb5-07b1-4e00-8d04-30bb917cf008@be57.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260626T180000Z
-LOCATION:391 Herndon Ave Suite A\, Orlando\, FL 32803
-DTSTART:20260626T160000Z
-SUMMARY:Reservation with Instrument Rating ﻿Ground School and Eddie Jackson
-UID:7579335a-2ba1-402d-a627-02195395093b@7579.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260723T160000Z
-LOCATION:391 Herndon Ave Suite A\, Orlando\, FL 32803
-DTSTART:20260723T140000Z
-SUMMARY:Reservation with Written Prep ﻿Ground School and Eddie Jackson
-UID:7afbf6a1-c6cb-4b05-8012-9dfe4ee50076@7afb.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260804T160000Z
-LOCATION:391 Herndon Ave Suite A\, Orlando\, FL 32803
-DTSTART:20260804T140000Z
-SUMMARY:Reservation with Written Prep ﻿Ground School and Eddie Jackson
-UID:271a8f4f-336f-4ba8-81cd-04d919d14046@271a.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260708T180000Z
-LOCATION:391 Herndon Ave Suite A\, Orlando\, FL 32803
-DTSTART:20260708T160000Z
-SUMMARY:Reservation with Instrument Rating ﻿Ground School and Eddie Jackson
-UID:dc28bd7d-56b7-412a-b86a-5ee22886f4d8@dc28.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260625T200000Z
-LOCATION:391 Herndon Ave Suite A\, Orlando\, FL 32803
-DTSTART:20260625T180000Z
-SUMMARY:Reservation with Private Pilot ﻿Ground School and Eddie Jackson
-UID:b4fbd4a9-9dc3-4d27-89b5-c32075085e52@b4fb.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260701T160000Z
-LOCATION:391 Herndon Ave Suite A\, Orlando\, FL 32803
-DTSTART:20260701T140000Z
-SUMMARY:Reservation with Written Prep ﻿Ground School and Eddie Jackson
-UID:e3f17e0e-d94b-4f2b-97bf-7e082ecbf598@e3f1.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260710T200000Z
-LOCATION:391 Herndon Ave Suite A\, Orlando\, FL 32803
-DTSTART:20260710T180000Z
-SUMMARY:Reservation with Private Pilot ﻿Ground School and Eddie Jackson
-UID:121c93c1-3bc0-49b9-b396-e84d3805edac@121c.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260703T180000Z
-LOCATION:391 Herndon Ave Suite A\, Orlando\, FL 32803
-DTSTART:20260703T160000Z
-SUMMARY:Reservation with Instrument Rating ﻿Ground School and Eddie Jackson
-UID:f3e1d3a2-2d6e-42f9-91f4-4b4e367b6714@f3e1.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260729T160000Z
-LOCATION:391 Herndon Ave Suite A\, Orlando\, FL 32803
-DTSTART:20260729T140000Z
-SUMMARY:Reservation with Written Prep ﻿Ground School and Eddie Jackson
-UID:ceee7c21-7495-4e6f-b0c8-34041e3b9b47@ceee.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260806T160000Z
-LOCATION:391 Herndon Ave Suite A\, Orlando\, FL 32803
-DTSTART:20260806T140000Z
-SUMMARY:Reservation with Written Prep ﻿Ground School and Eddie Jackson
-UID:4212cda8-c3b6-47c0-9920-163d1b565867@4212.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:\nKnowledge Test Prep 
-DTEND:20260703T160000Z
-LOCATION:391 Herndon Ave Suite A\, Orlando\, FL 32803
-DTSTART:20260703T140000Z
-SUMMARY:Reservation with Written Prep ﻿Ground School and Eddie Jackson
-UID:129616d3-e0a5-417c-baf3-a837caa73ea1@1296.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260610T160000Z
-LOCATION:391 Herndon Ave Suite A\, Orlando\, FL 32803
-DTSTART:20260610T140000Z
-SUMMARY:Reservation with Written Prep ﻿Ground School and Eddie Jackson
-UID:9aef3389-968f-4b79-b50b-db18e59b6786@9aef.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260717T180000Z
-LOCATION:391 Herndon Ave Suite A\, Orlando\, FL 32803
-DTSTART:20260717T160000Z
-SUMMARY:Reservation with Instrument Rating ﻿Ground School and Eddie Jackson
-UID:1db4e42f-92df-4fd0-9539-d606bd310de3@1db4.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260721T160000Z
-LOCATION:391 Herndon Ave Suite A\, Orlando\, FL 32803
-DTSTART:20260721T140000Z
-SUMMARY:Reservation with Written Prep ﻿Ground School and Eddie Jackson
-UID:cedcc740-cd7f-46da-83aa-1fa392dbe25d@cedc.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260611T160000Z
-LOCATION:391 Herndon Ave Suite A\, Orlando\, FL 32803
-DTSTART:20260611T140000Z
-SUMMARY:Reservation with Written Prep ﻿Ground School and Eddie Jackson
-UID:e37ffd6b-da26-4b0d-8149-67ae2349903f@e37f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:\nKnowledge Test Prep 
-DTEND:20260710T160000Z
-LOCATION:391 Herndon Ave Suite A\, Orlando\, FL 32803
-DTSTART:20260710T140000Z
-SUMMARY:Reservation with Written Prep ﻿Ground School and Eddie Jackson
-UID:f64743c3-b965-4a48-98e4-7acdc100bed4@f647.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260617T160000Z
-LOCATION:391 Herndon Ave Suite A\, Orlando\, FL 32803
-DTSTART:20260617T140000Z
-SUMMARY:Reservation with Written Prep ﻿Ground School and Eddie Jackson
-UID:e4f26afe-1027-49a6-9019-8fff1dacf6b2@e4f2.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260721T180000Z
-LOCATION:391 Herndon Ave Suite A\, Orlando\, FL 32803
-DTSTART:20260721T160000Z
-SUMMARY:Reservation with Instrument Rating ﻿Ground School and Eddie Jackson
-UID:8d7df309-dfba-4f12-a4f2-5a97641fd619@8d7d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:\nKnowledge Test Prep 
-DTEND:20260612T160000Z
-LOCATION:391 Herndon Ave Suite A\, Orlando\, FL 32803
-DTSTART:20260612T140000Z
-SUMMARY:Reservation with Written Prep ﻿Ground School and Eddie Jackson
-UID:7dfede8c-5645-45fc-aa08-2908ab8c689b@7dfe.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260805T160000Z
-LOCATION:391 Herndon Ave Suite A\, Orlando\, FL 32803
-DTSTART:20260805T140000Z
-SUMMARY:Reservation with Written Prep ﻿Ground School and Eddie Jackson
-UID:03ecb104-7ed8-4092-be4c-f53d3ada6eda@03ec.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260624T180000Z
-LOCATION:391 Herndon Ave Suite A\, Orlando\, FL 32803
-DTSTART:20260624T160000Z
-SUMMARY:Reservation with Instrument Rating ﻿Ground School and Eddie Jackson
-UID:58fb305a-333c-4d1e-a9d7-3849dd541ae7@58fb.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260611T180000Z
-LOCATION:391 Herndon Ave Suite A\, Orlando\, FL 32803
-DTSTART:20260611T160000Z
-SUMMARY:Reservation with Instrument Rating ﻿Ground School and Eddie Jackson
-UID:19f401bc-7dc4-4d0c-9d3f-08065ff62493@19f4.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260702T200000Z
-LOCATION:391 Herndon Ave Suite A\, Orlando\, FL 32803
-DTSTART:20260702T180000Z
-SUMMARY:Reservation with Private Pilot ﻿Ground School and Eddie Jackson
-UID:1df42fe0-0f42-48a4-a567-952d4c9d8b54@1df4.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260623T180000Z
-LOCATION:391 Herndon Ave Suite A\, Orlando\, FL 32803
-DTSTART:20260623T160000Z
-SUMMARY:Reservation with Instrument Rating ﻿Ground School and Eddie Jackson
-UID:8a803383-fe85-4aa5-b838-56fd8f44f458@8a80.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260730T160000Z
-LOCATION:391 Herndon Ave Suite A\, Orlando\, FL 32803
-DTSTART:20260730T140000Z
-SUMMARY:Reservation with Written Prep ﻿Ground School and Eddie Jackson
-UID:37045f35-5222-4d6c-b475-903f3b7998db@3704.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260618T200000Z
-LOCATION:391 Herndon Ave Suite A\, Orlando\, FL 32803
-DTSTART:20260618T180000Z
-SUMMARY:Reservation with Private Pilot ﻿Ground School and Eddie Jackson
-UID:ab3aaa0d-5cea-4c21-8e6b-ff024878bfe2@ab3a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:\nKnowledge Test Prep 
-DTEND:20260807T160000Z
-LOCATION:391 Herndon Ave Suite A\, Orlando\, FL 32803
-DTSTART:20260807T140000Z
-SUMMARY:Reservation with Written Prep ﻿Ground School and Eddie Jackson
-UID:5ae53b0f-dbea-4cc1-b9c7-834ce1041178@5ae5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:\nKnowledge Test Prep 
-DTEND:20260724T160000Z
-LOCATION:391 Herndon Ave Suite A\, Orlando\, FL 32803
-DTSTART:20260724T140000Z
-SUMMARY:Reservation with Written Prep ﻿Ground School and Eddie Jackson
-UID:a25ae9bb-072b-4003-89ea-f219c1df9c12@a25a.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260723T200000Z
-LOCATION:391 Herndon Ave Suite A\, Orlando\, FL 32803
-DTSTART:20260723T180000Z
-SUMMARY:Reservation with Private Pilot ﻿Ground School and Eddie Jackson
-UID:ce158a12-2f15-4b5c-a140-4f01f7d3d518@ce15.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260722T200000Z
-LOCATION:391 Herndon Ave Suite A\, Orlando\, FL 32803
-DTSTART:20260722T180000Z
-SUMMARY:Reservation with Private Pilot ﻿Ground School and Eddie Jackson
-UID:0cf4cc79-464b-4063-9f13-09412b84d747@0cf4.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260714T200000Z
-LOCATION:391 Herndon Ave Suite A\, Orlando\, FL 32803
-DTSTART:20260714T180000Z
-SUMMARY:Reservation with Private Pilot ﻿Ground School and Eddie Jackson
-UID:bb9146ba-2917-4d03-bcb4-d807e7d356f9@bb91.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260626T200000Z
-LOCATION:391 Herndon Ave Suite A\, Orlando\, FL 32803
-DTSTART:20260626T180000Z
-SUMMARY:Reservation with Private Pilot ﻿Ground School and Eddie Jackson
-UID:c1be7774-821f-4c33-a9bc-0324749f36fe@c1be.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:\nKnowledge Test Prep 
-DTEND:20260731T160000Z
-LOCATION:391 Herndon Ave Suite A\, Orlando\, FL 32803
-DTSTART:20260731T140000Z
-SUMMARY:Reservation with Written Prep ﻿Ground School and Eddie Jackson
-UID:2e754378-f72d-4e43-b83f-64757059370b@2e75.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260702T160000Z
-LOCATION:391 Herndon Ave Suite A\, Orlando\, FL 32803
-DTSTART:20260702T140000Z
-SUMMARY:Reservation with Written Prep ﻿Ground School and Eddie Jackson
-UID:7b48681d-3dd1-489c-8a82-ed47664d9d25@7b48.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260623T200000Z
-LOCATION:391 Herndon Ave Suite A\, Orlando\, FL 32803
-DTSTART:20260623T180000Z
-SUMMARY:Reservation with Private Pilot ﻿Ground School and Eddie Jackson
-UID:5850a295-b356-4028-8cac-63321068d1c7@5850.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260708T160000Z
-LOCATION:391 Herndon Ave Suite A\, Orlando\, FL 32803
-DTSTART:20260708T140000Z
-SUMMARY:Reservation with Written Prep ﻿Ground School and Eddie Jackson
-UID:be5043dd-0e3a-4a22-931c-93658a3b7d76@be50.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260619T200000Z
-LOCATION:391 Herndon Ave Suite A\, Orlando\, FL 32803
-DTSTART:20260619T180000Z
-SUMMARY:Reservation with Private Pilot ﻿Ground School and Eddie Jackson
-UID:74052003-da71-4e9c-aea0-0b2a6dc19077@7405.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260625T160000Z
-LOCATION:391 Herndon Ave Suite A\, Orlando\, FL 32803
-DTSTART:20260625T140000Z
-SUMMARY:Reservation with Written Prep ﻿Ground School and Eddie Jackson
-UID:83a359d5-418a-42c2-b858-d44286324a59@83a3.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260709T200000Z
-LOCATION:391 Herndon Ave Suite A\, Orlando\, FL 32803
-DTSTART:20260709T180000Z
-SUMMARY:Reservation with Private Pilot ﻿Ground School and Eddie Jackson
-UID:62bc272a-3409-45cb-87d3-b34a3c8d05a2@62bc.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260701T180000Z
-LOCATION:391 Herndon Ave Suite A\, Orlando\, FL 32803
-DTSTART:20260701T160000Z
-SUMMARY:Reservation with Instrument Rating ﻿Ground School and Eddie Jackson
-UID:f0d5b0db-dc68-4b9d-8a5e-74fe1a2d4035@f0d5.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260721T200000Z
-LOCATION:391 Herndon Ave Suite A\, Orlando\, FL 32803
-DTSTART:20260721T180000Z
-SUMMARY:Reservation with Private Pilot ﻿Ground School and Eddie Jackson
-UID:cf63ae32-5235-43e8-a290-80fd51c82240@cf63.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260616T180000Z
-LOCATION:391 Herndon Ave Suite A\, Orlando\, FL 32803
-DTSTART:20260616T160000Z
-SUMMARY:Reservation with Instrument Rating ﻿Ground School and Eddie Jackson
-UID:b8adca15-bdb1-462f-be13-aae68c9a1e42@b8ad.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260701T200000Z
-LOCATION:391 Herndon Ave Suite A\, Orlando\, FL 32803
-DTSTART:20260701T180000Z
-SUMMARY:Reservation with Private Pilot ﻿Ground School and Eddie Jackson
-UID:200c25b9-51eb-406a-be23-236851dc9dea@200c.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260716T200000Z
-LOCATION:391 Herndon Ave Suite A\, Orlando\, FL 32803
-DTSTART:20260716T180000Z
-SUMMARY:Reservation with Private Pilot ﻿Ground School and Eddie Jackson
-UID:ddc1b56f-9fb1-490b-a493-8d0f284bdc50@ddc1.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260610T200000Z
-LOCATION:391 Herndon Ave Suite A\, Orlando\, FL 32803
-DTSTART:20260610T180000Z
-SUMMARY:Reservation with Private Pilot ﻿Ground School and Eddie Jackson
-UID:5c63fd87-3612-45fc-ba5e-2a2b93fdd519@5c63.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260707T180000Z
-LOCATION:391 Herndon Ave Suite A\, Orlando\, FL 32803
-DTSTART:20260707T160000Z
-SUMMARY:Reservation with Instrument Rating ﻿Ground School and Eddie Jackson
-UID:1e2fcc17-b302-4eb1-8f75-3c5f981b46b2@1e2f.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260618T160000Z
-LOCATION:391 Herndon Ave Suite A\, Orlando\, FL 32803
-DTSTART:20260618T140000Z
-SUMMARY:Reservation with Written Prep ﻿Ground School and Eddie Jackson
-UID:398e8ec3-962d-4353-901c-a464d7d96c71@398e.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260728T180000Z
-LOCATION:391 Herndon Ave Suite A\, Orlando\, FL 32803
-DTSTART:20260728T160000Z
-SUMMARY:Reservation with Instrument Rating ﻿Ground School and Eddie Jackson
-UID:19ce8a50-47a5-4d35-baaa-369a07fe5b93@19ce.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260714T160000Z
-LOCATION:391 Herndon Ave Suite A\, Orlando\, FL 32803
-DTSTART:20260714T140000Z
-SUMMARY:Reservation with Written Prep ﻿Ground School and Eddie Jackson
-UID:e3c231e6-03f6-41a4-9c97-324eac542ee1@e3c2.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260611T220000Z
-LOCATION:391 Herndon Ave Suite A\, Orlando\, FL 32803
-DTSTART:20260611T200000Z
-SUMMARY:Reservation with Commercial ﻿Ground School and Eddie Jackson
-UID:b60bb1fb-6913-49c0-a4cd-baaf3cb9c075@b60b.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260618T220000Z
-LOCATION:391 Herndon Ave Suite A\, Orlando\, FL 32803
-DTSTART:20260618T200000Z
-SUMMARY:Reservation with Commercial ﻿Ground School and Eddie Jackson
-UID:86631bb1-9070-489b-9553-181c4e66c298@8663.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260624T160000Z
-LOCATION:391 Herndon Ave Suite A\, Orlando\, FL 32803
-DTSTART:20260624T140000Z
-SUMMARY:Reservation with Written Prep ﻿Ground School and Eddie Jackson
-UID:0b5c4e8c-46f4-4716-82ae-e11cfaf4e9ef@0b5c.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260623T160000Z
-LOCATION:391 Herndon Ave Suite A\, Orlando\, FL 32803
-DTSTART:20260623T140000Z
-SUMMARY:Reservation with Written Prep ﻿Ground School and Eddie Jackson
-UID:7b4769ae-e935-4017-ae56-530641db6d3d@7b47.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260609T200000Z
-LOCATION:391 Herndon Ave Suite A\, Orlando\, FL 32803
-DTSTART:20260609T180000Z
-SUMMARY:Reservation with Private Pilot ﻿Ground School and Eddie Jackson
-UID:61f9b7be-d1c8-44bd-ae04-7f5488e129f1@61f9.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260630T200000Z
-LOCATION:391 Herndon Ave Suite A\, Orlando\, FL 32803
-DTSTART:20260630T180000Z
-SUMMARY:Reservation with Private Pilot ﻿Ground School and Eddie Jackson
-UID:8e372860-0713-47b0-b75f-645c6f8a1f48@8e37.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260619T180000Z
-LOCATION:391 Herndon Ave Suite A\, Orlando\, FL 32803
-DTSTART:20260619T160000Z
-SUMMARY:Reservation with Instrument Rating ﻿Ground School and Eddie Jackson
-UID:1a69bcbc-774b-41ca-ae0a-aa89e08ada55@1a69.org
+UID:e5ac2617-865f-4be6-a853-2db65db0f50c@e5ac.org
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20260616T160000Z
 LOCATION:391 Herndon Ave Suite A\, Orlando\, FL 32803
 DTSTART:20260616T140000Z
 SUMMARY:Reservation with Written Prep ﻿Ground School and Eddie Jackson
-UID:70dfcfed-450e-40f1-a11b-82a3a2fa5195@70df.org
+UID:91bdd7f1-0f8a-4625-b3d8-85ecea78ebdf@91bd.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:\nKnowledge Test Prep 
-DTEND:20260717T160000Z
+DTEND:20260626T200000Z
 LOCATION:391 Herndon Ave Suite A\, Orlando\, FL 32803
-DTSTART:20260717T140000Z
-SUMMARY:Reservation with Written Prep ﻿Ground School and Eddie Jackson
-UID:27b1a365-30a8-4144-bc68-38dd98017378@27b1.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260710T180000Z
-LOCATION:391 Herndon Ave Suite A\, Orlando\, FL 32803
-DTSTART:20260710T160000Z
-SUMMARY:Reservation with Instrument Rating ﻿Ground School and Eddie Jackson
-UID:5e330031-733c-4800-b2cb-3befa47f923f@5e33.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260724T200000Z
-LOCATION:391 Herndon Ave Suite A\, Orlando\, FL 32803
-DTSTART:20260724T180000Z
+DTSTART:20260626T180000Z
 SUMMARY:Reservation with Private Pilot ﻿Ground School and Eddie Jackson
-UID:2eda655c-edab-459e-8982-055ee8e590f8@2eda.org
+UID:e6454b75-605f-4580-bf66-0c21d43a0cf9@e645.org
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20260630T180000Z
+DTEND:20260701T200000Z
 LOCATION:391 Herndon Ave Suite A\, Orlando\, FL 32803
-DTSTART:20260630T160000Z
-SUMMARY:Reservation with Instrument Rating ﻿Ground School and Eddie Jackson
-UID:3009fff2-c8a2-4732-a074-44325860f2bf@3009.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260717T200000Z
-LOCATION:391 Herndon Ave Suite A\, Orlando\, FL 32803
-DTSTART:20260717T180000Z
+DTSTART:20260701T180000Z
 SUMMARY:Reservation with Private Pilot ﻿Ground School and Eddie Jackson
-UID:53d50599-688d-4746-bc44-01569439a524@53d5.org
+UID:f3341893-54bb-4022-8f3f-dafa89d65e45@f334.org
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20260715T200000Z
+DTEND:20260616T200000Z
 LOCATION:391 Herndon Ave Suite A\, Orlando\, FL 32803
-DTSTART:20260715T180000Z
+DTSTART:20260616T180000Z
 SUMMARY:Reservation with Private Pilot ﻿Ground School and Eddie Jackson
-UID:37ddaacb-aeae-42bf-8173-854c78048b9d@37dd.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260806T160000Z
-LOCATION:391 Herndon Ave Suite A\, Orlando\, FL 32803
-DTSTART:20260806T140000Z
-SUMMARY:Reservation with Written Prep ﻿Ground School and Eddie Jackson
-UID:ff3f5c03-14e7-4be7-914d-0142bb416830@ff3f.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260714T180000Z
-LOCATION:391 Herndon Ave Suite A\, Orlando\, FL 32803
-DTSTART:20260714T160000Z
-SUMMARY:Reservation with Instrument Rating ﻿Ground School and Eddie Jackson
-UID:a51be742-3d6a-4f2f-9142-aa1d74e54dd6@a51b.org
+UID:7bb7f2d8-ae2a-46c7-9efc-13370f121ecc@7bb7.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:\nKnowledge Test Prep 
@@ -639,6 +134,511 @@ DTEND:20260619T160000Z
 LOCATION:391 Herndon Ave Suite A\, Orlando\, FL 32803
 DTSTART:20260619T140000Z
 SUMMARY:Reservation with Written Prep ﻿Ground School and Eddie Jackson
-UID:57d3754d-2035-4324-9bd4-f0ddc5cbe0b8@57d3.org
+UID:3b072251-5ee5-49e2-a49f-c611685467c3@3b07.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260616T180000Z
+LOCATION:391 Herndon Ave Suite A\, Orlando\, FL 32803
+DTSTART:20260616T160000Z
+SUMMARY:Reservation with Instrument Rating ﻿Ground School and Eddie Jackson
+UID:0078f058-8339-4468-9db3-3adbd69a9157@0078.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260611T180000Z
+LOCATION:391 Herndon Ave Suite A\, Orlando\, FL 32803
+DTSTART:20260611T160000Z
+SUMMARY:Reservation with Instrument Rating ﻿Ground School and Eddie Jackson
+UID:3ea553d2-3e64-4230-8902-60dabbf838d2@3ea5.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260715T180000Z
+LOCATION:391 Herndon Ave Suite A\, Orlando\, FL 32803
+DTSTART:20260715T160000Z
+SUMMARY:Reservation with Instrument Rating ﻿Ground School and Eddie Jackson
+UID:709dbcd4-8fca-4fcb-bc4b-887aa5c5e9f7@709d.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260721T200000Z
+LOCATION:391 Herndon Ave Suite A\, Orlando\, FL 32803
+DTSTART:20260721T180000Z
+SUMMARY:Reservation with Private Pilot ﻿Ground School and Eddie Jackson
+UID:c3538399-c6fc-4f57-a8f8-3709238854da@c353.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260723T200000Z
+LOCATION:391 Herndon Ave Suite A\, Orlando\, FL 32803
+DTSTART:20260723T180000Z
+SUMMARY:Reservation with Private Pilot ﻿Ground School and Eddie Jackson
+UID:28004f71-a366-4aac-b9ba-f0c128da3e65@2800.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260709T200000Z
+LOCATION:391 Herndon Ave Suite A\, Orlando\, FL 32803
+DTSTART:20260709T180000Z
+SUMMARY:Reservation with Private Pilot ﻿Ground School and Eddie Jackson
+UID:7d758113-c9d2-43dc-bfc7-22978f2f7e8f@7d75.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260724T200000Z
+LOCATION:391 Herndon Ave Suite A\, Orlando\, FL 32803
+DTSTART:20260724T180000Z
+SUMMARY:Reservation with Private Pilot ﻿Ground School and Eddie Jackson
+UID:27e07ed5-1257-4651-a4e0-c8de3e3c284a@27e0.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260729T200000Z
+LOCATION:391 Herndon Ave Suite A\, Orlando\, FL 32803
+DTSTART:20260729T180000Z
+SUMMARY:Reservation with Private Pilot ﻿Ground School and Eddie Jackson
+UID:771624bc-f60b-40a1-bff0-ce118a0d5e02@7716.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260703T180000Z
+LOCATION:391 Herndon Ave Suite A\, Orlando\, FL 32803
+DTSTART:20260703T160000Z
+SUMMARY:Reservation with Instrument Rating ﻿Ground School and Eddie Jackson
+UID:898f6ca8-b646-4d3d-b4e1-8b6b3f8eab35@898f.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260630T160000Z
+LOCATION:391 Herndon Ave Suite A\, Orlando\, FL 32803
+DTSTART:20260630T140000Z
+SUMMARY:Reservation with Written Prep ﻿Ground School and Eddie Jackson
+UID:16e9374d-520b-4660-81f8-f339bc71ec4d@16e9.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260708T180000Z
+LOCATION:391 Herndon Ave Suite A\, Orlando\, FL 32803
+DTSTART:20260708T160000Z
+SUMMARY:Reservation with Instrument Rating ﻿Ground School and Eddie Jackson
+UID:6446f263-045a-4c74-9097-4dc7772fa2c3@6446.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260728T160000Z
+LOCATION:391 Herndon Ave Suite A\, Orlando\, FL 32803
+DTSTART:20260728T140000Z
+SUMMARY:Reservation with Written Prep ﻿Ground School and Eddie Jackson
+UID:a2b43c0e-c3cc-41ec-93e7-6a0457014285@a2b4.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260624T180000Z
+LOCATION:391 Herndon Ave Suite A\, Orlando\, FL 32803
+DTSTART:20260624T160000Z
+SUMMARY:Reservation with Instrument Rating ﻿Ground School and Eddie Jackson
+UID:358c6317-7e66-47c0-93aa-fa3743194bf9@358c.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260617T180000Z
+LOCATION:391 Herndon Ave Suite A\, Orlando\, FL 32803
+DTSTART:20260617T160000Z
+SUMMARY:Reservation with Instrument Rating ﻿Ground School and Eddie Jackson
+UID:b3fffe39-11e6-4fdc-811b-2fa92af31f5a@b3ff.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260722T160000Z
+LOCATION:391 Herndon Ave Suite A\, Orlando\, FL 32803
+DTSTART:20260722T140000Z
+SUMMARY:Reservation with Written Prep ﻿Ground School and Eddie Jackson
+UID:d1b204f6-b362-42a3-8aaa-ff477e47b9f7@d1b2.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260619T200000Z
+LOCATION:391 Herndon Ave Suite A\, Orlando\, FL 32803
+DTSTART:20260619T180000Z
+SUMMARY:Reservation with Private Pilot ﻿Ground School and Eddie Jackson
+UID:fdf718b7-3986-4437-b8b2-cfe85d3772e1@fdf7.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260721T180000Z
+LOCATION:391 Herndon Ave Suite A\, Orlando\, FL 32803
+DTSTART:20260721T160000Z
+SUMMARY:Reservation with Instrument Rating ﻿Ground School and Eddie Jackson
+UID:9bdf9ab4-e89a-483e-8f51-c18846910c65@9bdf.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260703T200000Z
+LOCATION:391 Herndon Ave Suite A\, Orlando\, FL 32803
+DTSTART:20260703T180000Z
+SUMMARY:Reservation with Private Pilot ﻿Ground School and Eddie Jackson
+UID:70078221-1ff5-485c-a452-17cf8061dda1@7007.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260617T160000Z
+LOCATION:391 Herndon Ave Suite A\, Orlando\, FL 32803
+DTSTART:20260617T140000Z
+SUMMARY:Reservation with Written Prep ﻿Ground School and Eddie Jackson
+UID:ee86864d-7507-4279-a430-308986f2f8a0@ee86.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260722T200000Z
+LOCATION:391 Herndon Ave Suite A\, Orlando\, FL 32803
+DTSTART:20260722T180000Z
+SUMMARY:Reservation with Private Pilot ﻿Ground School and Eddie Jackson
+UID:f169ea2d-30dc-40a8-a700-efd9015acb63@f169.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260715T160000Z
+LOCATION:391 Herndon Ave Suite A\, Orlando\, FL 32803
+DTSTART:20260715T140000Z
+SUMMARY:Reservation with Written Prep ﻿Ground School and Eddie Jackson
+UID:6a6d7ee6-ab03-4f34-9383-549fde37272d@6a6d.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260609T200000Z
+LOCATION:391 Herndon Ave Suite A\, Orlando\, FL 32803
+DTSTART:20260609T180000Z
+SUMMARY:Reservation with Private Pilot ﻿Ground School and Eddie Jackson
+UID:7261ad52-a670-457a-86f3-3e84e938ddfb@7261.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260716T160000Z
+LOCATION:391 Herndon Ave Suite A\, Orlando\, FL 32803
+DTSTART:20260716T140000Z
+SUMMARY:Reservation with Written Prep ﻿Ground School and Eddie Jackson
+UID:0927bc82-d180-436e-9b12-989469b36e54@0927.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260624T200000Z
+LOCATION:391 Herndon Ave Suite A\, Orlando\, FL 32803
+DTSTART:20260624T180000Z
+SUMMARY:Reservation with Private Pilot ﻿Ground School and Eddie Jackson
+UID:757e1e61-7f44-486a-98fb-71c10c8af84c@757e.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260804T160000Z
+LOCATION:391 Herndon Ave Suite A\, Orlando\, FL 32803
+DTSTART:20260804T140000Z
+SUMMARY:Reservation with Written Prep ﻿Ground School and Eddie Jackson
+UID:37edcac9-af39-48c1-832e-9418e7d23fc8@37ed.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260730T160000Z
+LOCATION:391 Herndon Ave Suite A\, Orlando\, FL 32803
+DTSTART:20260730T140000Z
+SUMMARY:Reservation with Written Prep ﻿Ground School and Eddie Jackson
+UID:8fa2443a-b929-4980-af74-4c4070fea31d@8fa2.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260717T200000Z
+LOCATION:391 Herndon Ave Suite A\, Orlando\, FL 32803
+DTSTART:20260717T180000Z
+SUMMARY:Reservation with Private Pilot ﻿Ground School and Eddie Jackson
+UID:942d9382-89ba-4e65-b0fe-bca9260d244a@942d.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260708T160000Z
+LOCATION:391 Herndon Ave Suite A\, Orlando\, FL 32803
+DTSTART:20260708T140000Z
+SUMMARY:Reservation with Written Prep ﻿Ground School and Eddie Jackson
+UID:ea6edcc6-b629-4bf5-a88c-b481fddcbaae@ea6e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:\nKnowledge Test Prep 
+DTEND:20260731T160000Z
+LOCATION:391 Herndon Ave Suite A\, Orlando\, FL 32803
+DTSTART:20260731T140000Z
+SUMMARY:Reservation with Written Prep ﻿Ground School and Eddie Jackson
+UID:bffce7b2-bebf-4643-834b-cd225a953fac@bffc.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260701T160000Z
+LOCATION:391 Herndon Ave Suite A\, Orlando\, FL 32803
+DTSTART:20260701T140000Z
+SUMMARY:Reservation with Written Prep ﻿Ground School and Eddie Jackson
+UID:3960e3ba-234d-409d-bac1-17bb465b06f3@3960.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260618T160000Z
+LOCATION:391 Herndon Ave Suite A\, Orlando\, FL 32803
+DTSTART:20260618T140000Z
+SUMMARY:Reservation with Written Prep ﻿Ground School and Eddie Jackson
+UID:862e8c7f-0899-4507-a5ed-72754433f8a6@862e.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260624T160000Z
+LOCATION:391 Herndon Ave Suite A\, Orlando\, FL 32803
+DTSTART:20260624T140000Z
+SUMMARY:Reservation with Written Prep ﻿Ground School and Eddie Jackson
+UID:ca4ff8f3-dce5-479e-83d6-234606fe8988@ca4f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:\nKnowledge Test Prep 
+DTEND:20260612T160000Z
+LOCATION:391 Herndon Ave Suite A\, Orlando\, FL 32803
+DTSTART:20260612T140000Z
+SUMMARY:Reservation with Written Prep ﻿Ground School and Eddie Jackson
+UID:ef6110bb-b881-404b-9344-5f92ed06edc2@ef61.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260630T180000Z
+LOCATION:391 Herndon Ave Suite A\, Orlando\, FL 32803
+DTSTART:20260630T160000Z
+SUMMARY:Reservation with Instrument Rating ﻿Ground School and Eddie Jackson
+UID:90249162-2dd5-4f0a-a0be-80af8795d50e@9024.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260728T180000Z
+LOCATION:391 Herndon Ave Suite A\, Orlando\, FL 32803
+DTSTART:20260728T160000Z
+SUMMARY:Reservation with Instrument Rating ﻿Ground School and Eddie Jackson
+UID:b74a9031-b6bf-4fa9-9b3a-05475b81c7b8@b74a.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260714T200000Z
+LOCATION:391 Herndon Ave Suite A\, Orlando\, FL 32803
+DTSTART:20260714T180000Z
+SUMMARY:Reservation with Private Pilot ﻿Ground School and Eddie Jackson
+UID:7fbc0244-d52d-44a0-a93e-b3e8e53a4acc@7fbc.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260708T200000Z
+LOCATION:391 Herndon Ave Suite A\, Orlando\, FL 32803
+DTSTART:20260708T180000Z
+SUMMARY:Reservation with Private Pilot ﻿Ground School and Eddie Jackson
+UID:c553a30e-1658-40b4-b6ec-860968aca30b@c553.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260715T200000Z
+LOCATION:391 Herndon Ave Suite A\, Orlando\, FL 32803
+DTSTART:20260715T180000Z
+SUMMARY:Reservation with Private Pilot ﻿Ground School and Eddie Jackson
+UID:8dd24132-9e7a-47cd-9117-7498ad36465e@8dd2.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260701T180000Z
+LOCATION:391 Herndon Ave Suite A\, Orlando\, FL 32803
+DTSTART:20260701T160000Z
+SUMMARY:Reservation with Instrument Rating ﻿Ground School and Eddie Jackson
+UID:8577bde9-1ed4-4e90-b396-12fb078f3ddb@8577.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:\nKnowledge Test Prep 
+DTEND:20260807T160000Z
+LOCATION:391 Herndon Ave Suite A\, Orlando\, FL 32803
+DTSTART:20260807T140000Z
+SUMMARY:Reservation with Written Prep ﻿Ground School and Eddie Jackson
+UID:e138d3a1-7238-43f7-b86d-3230742ee8db@e138.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260806T160000Z
+LOCATION:391 Herndon Ave Suite A\, Orlando\, FL 32803
+DTSTART:20260806T140000Z
+SUMMARY:Reservation with Written Prep ﻿Ground School and Eddie Jackson
+UID:7df14db3-d880-4014-8de9-2459e8bb060e@7df1.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260806T160000Z
+LOCATION:391 Herndon Ave Suite A\, Orlando\, FL 32803
+DTSTART:20260806T140000Z
+SUMMARY:Reservation with Written Prep ﻿Ground School and Eddie Jackson
+UID:219bc116-46c3-4d2c-b85e-9ebbd9a0c475@219b.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260630T200000Z
+LOCATION:391 Herndon Ave Suite A\, Orlando\, FL 32803
+DTSTART:20260630T180000Z
+SUMMARY:Reservation with Private Pilot ﻿Ground School and Eddie Jackson
+UID:734cfcd0-9eb1-4ca5-955b-b73cec3d592e@734c.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260710T200000Z
+LOCATION:391 Herndon Ave Suite A\, Orlando\, FL 32803
+DTSTART:20260710T180000Z
+SUMMARY:Reservation with Private Pilot ﻿Ground School and Eddie Jackson
+UID:6e53c578-3635-4864-a19c-f1612427a603@6e53.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260709T160000Z
+LOCATION:391 Herndon Ave Suite A\, Orlando\, FL 32803
+DTSTART:20260709T140000Z
+SUMMARY:Reservation with Written Prep ﻿Ground School and Eddie Jackson
+UID:defd32ea-0ca4-4aae-a11a-1674385ee4e4@defd.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260625T160000Z
+LOCATION:391 Herndon Ave Suite A\, Orlando\, FL 32803
+DTSTART:20260625T140000Z
+SUMMARY:Reservation with Written Prep ﻿Ground School and Eddie Jackson
+UID:eba61701-b63f-4950-a813-daddd54b910c@eba6.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260707T180000Z
+LOCATION:391 Herndon Ave Suite A\, Orlando\, FL 32803
+DTSTART:20260707T160000Z
+SUMMARY:Reservation with Instrument Rating ﻿Ground School and Eddie Jackson
+UID:1674395d-7483-4bb4-a375-f85f5a3884df@1674.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:\nKnowledge Test Prep 
+DTEND:20260807T160000Z
+LOCATION:391 Herndon Ave Suite A\, Orlando\, FL 32803
+DTSTART:20260807T140000Z
+SUMMARY:Reservation with Written Prep ﻿Ground School and Eddie Jackson
+UID:8aaf3fe2-49be-40c5-ba9e-a427aef6809c@8aaf.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260611T200000Z
+LOCATION:391 Herndon Ave Suite A\, Orlando\, FL 32803
+DTSTART:20260611T180000Z
+SUMMARY:Reservation with Private Pilot ﻿Ground School and Eddie Jackson
+UID:25e553f6-a5c6-45e1-b59d-9f45743bd016@25e5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:\nKnowledge Test Prep 
+DTEND:20260724T160000Z
+LOCATION:391 Herndon Ave Suite A\, Orlando\, FL 32803
+DTSTART:20260724T140000Z
+SUMMARY:Reservation with Written Prep ﻿Ground School and Eddie Jackson
+UID:69d15585-4b0f-42be-96fa-540caed46cc1@69d1.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260721T160000Z
+LOCATION:391 Herndon Ave Suite A\, Orlando\, FL 32803
+DTSTART:20260721T140000Z
+SUMMARY:Reservation with Written Prep ﻿Ground School and Eddie Jackson
+UID:b640f416-910c-4fc8-b408-24837c43686d@b640.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260626T180000Z
+LOCATION:391 Herndon Ave Suite A\, Orlando\, FL 32803
+DTSTART:20260626T160000Z
+SUMMARY:Reservation with Instrument Rating ﻿Ground School and Eddie Jackson
+UID:bc3a7170-b2fa-4f7a-995f-111450492113@bc3a.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260619T180000Z
+LOCATION:391 Herndon Ave Suite A\, Orlando\, FL 32803
+DTSTART:20260619T160000Z
+SUMMARY:Reservation with Instrument Rating ﻿Ground School and Eddie Jackson
+UID:b329d99a-c52e-4169-8265-0545fe85db3f@b329.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260617T200000Z
+LOCATION:391 Herndon Ave Suite A\, Orlando\, FL 32803
+DTSTART:20260617T180000Z
+SUMMARY:Reservation with Private Pilot ﻿Ground School and Eddie Jackson
+UID:cfd1ccb6-6798-4260-9bc8-d76a6c116316@cfd1.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260618T220000Z
+LOCATION:391 Herndon Ave Suite A\, Orlando\, FL 32803
+DTSTART:20260618T200000Z
+SUMMARY:Reservation with Commercial ﻿Ground School and Eddie Jackson
+UID:0df9dbbb-5d7a-4078-bab6-4874d726e3b3@0df9.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260623T200000Z
+LOCATION:391 Herndon Ave Suite A\, Orlando\, FL 32803
+DTSTART:20260623T180000Z
+SUMMARY:Reservation with Private Pilot ﻿Ground School and Eddie Jackson
+UID:cdd52790-4f0e-4be0-b464-e13dfcbdcc12@cdd5.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260612T200000Z
+LOCATION:391 Herndon Ave Suite A\, Orlando\, FL 32803
+DTSTART:20260612T180000Z
+SUMMARY:Reservation with Private Pilot ﻿Ground School and Eddie Jackson
+UID:b898aee1-d176-4420-8819-8a3bf022326c@b898.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:\nKnowledge Test Prep 
+DTEND:20260717T160000Z
+LOCATION:391 Herndon Ave Suite A\, Orlando\, FL 32803
+DTSTART:20260717T140000Z
+SUMMARY:Reservation with Written Prep ﻿Ground School and Eddie Jackson
+UID:10401ca7-2648-42ba-8178-e68cca3bca47@1040.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260623T160000Z
+LOCATION:391 Herndon Ave Suite A\, Orlando\, FL 32803
+DTSTART:20260623T140000Z
+SUMMARY:Reservation with Written Prep ﻿Ground School and Eddie Jackson
+UID:f3fb8206-2f60-4b6a-af16-1699bd98239a@f3fb.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260625T200000Z
+LOCATION:391 Herndon Ave Suite A\, Orlando\, FL 32803
+DTSTART:20260625T180000Z
+SUMMARY:Reservation with Private Pilot ﻿Ground School and Eddie Jackson
+UID:63f5ec22-65d3-4d10-92b9-b444f82f99b7@63f5.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260707T200000Z
+LOCATION:391 Herndon Ave Suite A\, Orlando\, FL 32803
+DTSTART:20260707T180000Z
+SUMMARY:Reservation with Private Pilot ﻿Ground School and Eddie Jackson
+UID:f3bcde4a-1e75-4aab-b98a-af7b0cc4ef43@f3bc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:\nKnowledge Test Prep 
+DTEND:20260710T160000Z
+LOCATION:391 Herndon Ave Suite A\, Orlando\, FL 32803
+DTSTART:20260710T140000Z
+SUMMARY:Reservation with Written Prep ﻿Ground School and Eddie Jackson
+UID:4d005785-3139-4fd6-8870-910a20c33cbd@4d00.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260716T200000Z
+LOCATION:391 Herndon Ave Suite A\, Orlando\, FL 32803
+DTSTART:20260716T180000Z
+SUMMARY:Reservation with Private Pilot ﻿Ground School and Eddie Jackson
+UID:44c737b5-a2b9-4b3d-8d7b-361f752d58eb@44c7.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260702T160000Z
+LOCATION:391 Herndon Ave Suite A\, Orlando\, FL 32803
+DTSTART:20260702T140000Z
+SUMMARY:Reservation with Written Prep ﻿Ground School and Eddie Jackson
+UID:82094222-2278-464e-b039-0adb4ef4de5b@8209.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260610T200000Z
+LOCATION:391 Herndon Ave Suite A\, Orlando\, FL 32803
+DTSTART:20260610T180000Z
+SUMMARY:Reservation with Private Pilot ﻿Ground School and Eddie Jackson
+UID:90d7a93c-8d50-47c1-8cd5-5641049d86c4@90d7.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260610T160000Z
+LOCATION:391 Herndon Ave Suite A\, Orlando\, FL 32803
+DTSTART:20260610T140000Z
+SUMMARY:Reservation with Written Prep ﻿Ground School and Eddie Jackson
+UID:04b7ce69-71ef-4903-8372-66397075c9cc@04b7.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260611T160000Z
+LOCATION:391 Herndon Ave Suite A\, Orlando\, FL 32803
+DTSTART:20260611T140000Z
+SUMMARY:Reservation with Written Prep ﻿Ground School and Eddie Jackson
+UID:e4fbcd89-579c-4f96-8dbf-4fd1c41c9061@e4fb.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260612T180000Z
+LOCATION:391 Herndon Ave Suite A\, Orlando\, FL 32803
+DTSTART:20260612T160000Z
+SUMMARY:Reservation with Instrument Rating ﻿Ground School and Eddie Jackson
+UID:0274e9e2-ec35-4ae9-9ca1-df31b0b8a444@0274.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260611T220000Z
+LOCATION:391 Herndon Ave Suite A\, Orlando\, FL 32803
+DTSTART:20260611T200000Z
+SUMMARY:Reservation with Commercial ﻿Ground School and Eddie Jackson
+UID:39ce0935-c8f5-401e-8f94-b5ad34a036ec@39ce.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260723T160000Z
+LOCATION:391 Herndon Ave Suite A\, Orlando\, FL 32803
+DTSTART:20260723T140000Z
+SUMMARY:Reservation with Written Prep ﻿Ground School and Eddie Jackson
+UID:2dc67fc3-a352-465b-b240-e37c1f238d56@2dc6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:\nKnowledge Test Prep 
+DTEND:20260703T160000Z
+LOCATION:391 Herndon Ave Suite A\, Orlando\, FL 32803
+DTSTART:20260703T140000Z
+SUMMARY:Reservation with Written Prep ﻿Ground School and Eddie Jackson
+UID:99da7c9f-9d18-4966-85ad-986f2846fc0e@99da.org
 END:VEVENT
 END:VCALENDAR
