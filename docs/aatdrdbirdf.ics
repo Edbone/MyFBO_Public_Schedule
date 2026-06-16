@@ -2,10 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DTEND:20260620T120000Z
+DESCRIPTION:\nInstructor Checkout 
+DTEND:20260617T120000Z
 LOCATION:391 Herndon Ave Suite A\, Orlando\, FL 32803
-DTSTART:20260620T100000Z
-SUMMARY:Reservation with Josue Enrique ﻿Ortiz Acevedo and AATD RDBirdF
-UID:b0bcbac4-b9f7-462c-aa84-4dee2d218246@b0bc.org
+DTSTART:20260617T100000Z
+SUMMARY:Reservation with Eddie ﻿Jackson and AATD RDBirdF
+UID:5bd6ffc9-23ea-43e9-950b-dd3f9c84dcbc@5bd6.org
 END:VEVENT
 END:VCALENDAR
