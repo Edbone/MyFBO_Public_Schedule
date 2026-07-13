@@ -2,19 +2,20 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
+DESCRIPTION:\nSpin Training 
+DTEND:20260715T180000Z
+LOCATION:391 Herndon Ave Suite A\, Orlando\, FL 32803
+DTSTART:20260715T160000Z
+SUMMARY:Reservation with Christopher Robert ﻿Batchelor and Braden Porter
+UID:fb4e4f8a-1ff6-4c75-a457-46ef08250e7b@fb4e.org
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:\nIRA EOC Oral 
 DTEND:20260714T200000Z
 LOCATION:391 Herndon Ave Suite A\, Orlando\, FL 32803
 DTSTART:20260714T160000Z
 SUMMARY:Reservation with Daniel Patrick ﻿Weis and Braden Porter
-UID:bd317570-1bee-405b-8bd3-3921a2dcca0f@bd31.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260804T140000Z
-LOCATION:391 Herndon Ave Suite A\, Orlando\, FL 32803
-DTSTART:20260804T120000Z
-SUMMARY:Reservation with ﻿Stage Check Ground School and Braden Porter
-UID:665f418b-b739-461f-b8cd-e60d66456968@665f.org
+UID:fcd3bebf-c2e6-4a5a-9fb0-0d7085ca6c75@fcd3.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:\nStage Check 
@@ -22,146 +23,7 @@ DTEND:20260728T140000Z
 LOCATION:391 Herndon Ave Suite A\, Orlando\, FL 32803
 DTSTART:20260728T120000Z
 SUMMARY:Reservation with ﻿Stage Check Ground School and Braden Porter
-UID:318e696c-54b6-4b2b-9478-9d5fabf2ab53@318e.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260820T140000Z
-LOCATION:391 Herndon Ave Suite A\, Orlando\, FL 32803
-DTSTART:20260820T120000Z
-SUMMARY:Reservation with ﻿Stage Check Ground School and Braden Porter
-UID:258eb15d-dfc9-4a41-a268-3f5638c3b6c4@258e.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260813T140000Z
-LOCATION:391 Herndon Ave Suite A\, Orlando\, FL 32803
-DTSTART:20260813T120000Z
-SUMMARY:Reservation with ﻿Stage Check Ground School and Braden Porter
-UID:a66c3297-1fe5-4e9f-9e60-7b0d3842f96c@a66c.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260903T140000Z
-LOCATION:391 Herndon Ave Suite A\, Orlando\, FL 32803
-DTSTART:20260903T120000Z
-SUMMARY:Reservation with ﻿Stage Check Ground School and Braden Porter
-UID:3ef7bbe4-ae87-4c1d-bb23-0c3baecfea12@3ef7.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260714T000000Z
-LOCATION:391 Herndon Ave Suite A\, Orlando\, FL 32803
-DTSTART:20260713T220000Z
-SUMMARY:Reservation with Robinson Steven ﻿Avila Espanol and Braden Porter
-UID:5ad5f5dd-9a05-4493-b75c-61c344a09b5b@5ad5.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260901T140000Z
-LOCATION:391 Herndon Ave Suite A\, Orlando\, FL 32803
-DTSTART:20260901T120000Z
-SUMMARY:Reservation with ﻿Stage Check Ground School and Braden Porter
-UID:ed575cda-da4c-46f5-9990-777eff4b744d@ed57.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:\nCFI phase 3 
-DTEND:20260713T180000Z
-LOCATION:391 Herndon Ave Suite A\, Orlando\, FL 32803
-DTSTART:20260713T160000Z
-SUMMARY:Reservation with Christopher Robert ﻿Batchelor and Braden Porter
-UID:8f886386-52cd-4dff-87fd-420b7f89e9c7@8f88.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:\nStage Check 
-DTEND:20260730T140000Z
-LOCATION:391 Herndon Ave Suite A\, Orlando\, FL 32803
-DTSTART:20260730T120000Z
-SUMMARY:Reservation with ﻿Stage Check Ground School and Braden Porter
-UID:4f58dc08-4d1c-45e4-b8eb-f6855eed010b@4f58.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260908T140000Z
-LOCATION:391 Herndon Ave Suite A\, Orlando\, FL 32803
-DTSTART:20260908T120000Z
-SUMMARY:Reservation with ﻿Stage Check Ground School and Braden Porter
-UID:9279ae26-a58c-4d33-b7ca-f7a84348507a@9279.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:CE_172_SP N52522\n\nIRA EOC Flight 
-DTEND:20260714T230000Z
-LOCATION:391 Herndon Ave Suite A\, Orlando\, FL 32803
-DTSTART:20260714T200000Z
-SUMMARY:Reservation with Daniel Patrick ﻿Weis and Braden Porter
-UID:1115c1c4-a48b-45d5-8471-cf88a3bb50e0@1115.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260910T140000Z
-LOCATION:391 Herndon Ave Suite A\, Orlando\, FL 32803
-DTSTART:20260910T120000Z
-SUMMARY:Reservation with ﻿Stage Check Ground School and Braden Porter
-UID:53328c53-a066-43f1-bc54-14bee03fafd0@5332.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260806T140000Z
-LOCATION:391 Herndon Ave Suite A\, Orlando\, FL 32803
-DTSTART:20260806T120000Z
-SUMMARY:Reservation with ﻿Stage Check Ground School and Braden Porter
-UID:1c01d9a6-defa-4b1a-8d14-d1aecea4364c@1c01.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:CE_172_SP N55297\n\nStage 7 PPL 
-DTEND:20260713T220000Z
-LOCATION:391 Herndon Ave Suite A\, Orlando\, FL 32803
-DTSTART:20260713T200000Z
-SUMMARY:Reservation with Tyler Thomas ﻿Wobschall and Braden Porter
-UID:aa7b2b16-1472-4fd2-a65c-5fef6c4f0d2c@aa7b.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260715T200000Z
-LOCATION:391 Herndon Ave Suite A\, Orlando\, FL 32803
-DTSTART:20260715T180000Z
-SUMMARY:Reservation with Robinson Steven ﻿Avila Espanol and Braden Porter
-UID:81c9e446-2683-40cf-ab51-19a348b403f8@81c9.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260827T140000Z
-LOCATION:391 Herndon Ave Suite A\, Orlando\, FL 32803
-DTSTART:20260827T120000Z
-SUMMARY:Reservation with ﻿Stage Check Ground School and Braden Porter
-UID:9ff236b2-30a7-48b8-abbc-d87af8f1ef67@9ff2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:\nSpin Training 
-DTEND:20260715T180000Z
-LOCATION:391 Herndon Ave Suite A\, Orlando\, FL 32803
-DTSTART:20260715T160000Z
-SUMMARY:Reservation with Christopher Robert ﻿Batchelor and Braden Porter
-UID:ad02ec47-ce84-41ec-be0a-f8afe55645a8@ad02.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260818T140000Z
-LOCATION:391 Herndon Ave Suite A\, Orlando\, FL 32803
-DTSTART:20260818T120000Z
-SUMMARY:Reservation with ﻿Stage Check Ground School and Braden Porter
-UID:1d90d574-d475-4353-9b16-fd4ff5b39268@1d90.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260811T140000Z
-LOCATION:391 Herndon Ave Suite A\, Orlando\, FL 32803
-DTSTART:20260811T120000Z
-SUMMARY:Reservation with ﻿Stage Check Ground School and Braden Porter
-UID:8562bcdc-5f39-40c2-8903-ef0f3c5c2400@8562.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:CE_172_SP N464ER\n\nSpin Training ER  
-DTEND:20260720T180000Z
-LOCATION:391 Herndon Ave Suite A\, Orlando\, FL 32803
-DTSTART:20260720T160000Z
-SUMMARY:Reservation with Logan Stuard ﻿Gordillo and Braden Porter
-UID:8a47ef60-7080-4b2e-813e-a99c166dec62@8a47.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260825T140000Z
-LOCATION:391 Herndon Ave Suite A\, Orlando\, FL 32803
-DTSTART:20260825T120000Z
-SUMMARY:Reservation with ﻿Stage Check Ground School and Braden Porter
-UID:d9d289d8-fa72-4f27-b48b-5647cdd9eadf@d9d2.org
+UID:b69f3100-c9ec-4ecb-aca7-e9d4963d5301@b69f.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:\nStage 7 PPL 
@@ -169,6 +31,144 @@ DTEND:20260713T200000Z
 LOCATION:391 Herndon Ave Suite A\, Orlando\, FL 32803
 DTSTART:20260713T180000Z
 SUMMARY:Reservation with Tyler Thomas ﻿Wobschall and Braden Porter
-UID:5f468039-c637-41d1-b60e-63cbecbe0fc4@5f46.org
+UID:b526b299-ea0e-42bc-b26d-7ee1aa4d9f5f@b526.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:CE_172_SP N52522\n\nIRA EOC Flight 
+DTEND:20260714T230000Z
+LOCATION:391 Herndon Ave Suite A\, Orlando\, FL 32803
+DTSTART:20260714T200000Z
+SUMMARY:Reservation with Daniel Patrick ﻿Weis and Braden Porter
+UID:e32be53a-cb0a-4539-9959-a3648a3d22c4@e32b.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260903T140000Z
+LOCATION:391 Herndon Ave Suite A\, Orlando\, FL 32803
+DTSTART:20260903T120000Z
+SUMMARY:Reservation with ﻿Stage Check Ground School and Braden Porter
+UID:94f4a74f-4f1b-4faf-b82a-6496513485fd@94f4.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260910T140000Z
+LOCATION:391 Herndon Ave Suite A\, Orlando\, FL 32803
+DTSTART:20260910T120000Z
+SUMMARY:Reservation with ﻿Stage Check Ground School and Braden Porter
+UID:b6a35015-fe3c-4adf-b8ed-a3cbb7a7ed2f@b6a3.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260827T140000Z
+LOCATION:391 Herndon Ave Suite A\, Orlando\, FL 32803
+DTSTART:20260827T120000Z
+SUMMARY:Reservation with ﻿Stage Check Ground School and Braden Porter
+UID:668b0ba9-489f-44d8-a8d9-92977191b802@668b.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260901T140000Z
+LOCATION:391 Herndon Ave Suite A\, Orlando\, FL 32803
+DTSTART:20260901T120000Z
+SUMMARY:Reservation with ﻿Stage Check Ground School and Braden Porter
+UID:28f8b3a6-22e8-453d-8a2f-ed7f3245cab4@28f8.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260714T000000Z
+LOCATION:391 Herndon Ave Suite A\, Orlando\, FL 32803
+DTSTART:20260713T220000Z
+SUMMARY:Reservation with Robinson Steven ﻿Avila Espanol and Braden Porter
+UID:0a80056f-472f-47d6-9a0d-a1e48c221622@0a80.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260804T140000Z
+LOCATION:391 Herndon Ave Suite A\, Orlando\, FL 32803
+DTSTART:20260804T120000Z
+SUMMARY:Reservation with ﻿Stage Check Ground School and Braden Porter
+UID:1c6f6fc0-b2ae-4e30-9d4a-a54f5b2b9fca@1c6f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:\nCFI phase 3 
+DTEND:20260713T180000Z
+LOCATION:391 Herndon Ave Suite A\, Orlando\, FL 32803
+DTSTART:20260713T160000Z
+SUMMARY:Reservation with Christopher Robert ﻿Batchelor and Braden Porter
+UID:20b4faef-0f52-4520-abb3-fbcd329b2458@20b4.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260715T200000Z
+LOCATION:391 Herndon Ave Suite A\, Orlando\, FL 32803
+DTSTART:20260715T180000Z
+SUMMARY:Reservation with Robinson Steven ﻿Avila Espanol and Braden Porter
+UID:6c80d86c-4919-4de9-b551-455ebfaa882b@6c80.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:\nStage Check 
+DTEND:20260730T140000Z
+LOCATION:391 Herndon Ave Suite A\, Orlando\, FL 32803
+DTSTART:20260730T120000Z
+SUMMARY:Reservation with ﻿Stage Check Ground School and Braden Porter
+UID:7a6c1b8e-c32c-4b39-bee4-323f366c8328@7a6c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:CE_172_SP N55297\n\nStage 7 PPL 
+DTEND:20260713T220000Z
+LOCATION:391 Herndon Ave Suite A\, Orlando\, FL 32803
+DTSTART:20260713T200000Z
+SUMMARY:Reservation with Tyler Thomas ﻿Wobschall and Braden Porter
+UID:40eb52e5-2aee-4ca2-b080-38fd00ba76b0@40eb.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260825T140000Z
+LOCATION:391 Herndon Ave Suite A\, Orlando\, FL 32803
+DTSTART:20260825T120000Z
+SUMMARY:Reservation with ﻿Stage Check Ground School and Braden Porter
+UID:1a92907d-57d8-4ffa-bf61-3efdd0043d8f@1a92.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260813T140000Z
+LOCATION:391 Herndon Ave Suite A\, Orlando\, FL 32803
+DTSTART:20260813T120000Z
+SUMMARY:Reservation with ﻿Stage Check Ground School and Braden Porter
+UID:a4f2030e-03e0-41b6-97ee-865a512bf0ac@a4f2.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260908T140000Z
+LOCATION:391 Herndon Ave Suite A\, Orlando\, FL 32803
+DTSTART:20260908T120000Z
+SUMMARY:Reservation with ﻿Stage Check Ground School and Braden Porter
+UID:81b501c7-e1d2-4b00-864d-ee1028b33351@81b5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:\nSpin Training ER  
+DTEND:20260720T180000Z
+LOCATION:391 Herndon Ave Suite A\, Orlando\, FL 32803
+DTSTART:20260720T160000Z
+SUMMARY:Reservation with Logan Stuard ﻿Gordillo and Braden Porter
+UID:765eab42-9929-4b57-be7e-6ae1d8ca9836@765e.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260806T140000Z
+LOCATION:391 Herndon Ave Suite A\, Orlando\, FL 32803
+DTSTART:20260806T120000Z
+SUMMARY:Reservation with ﻿Stage Check Ground School and Braden Porter
+UID:ee8b0806-8752-4a6a-ad97-a7901c78cca5@ee8b.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260820T140000Z
+LOCATION:391 Herndon Ave Suite A\, Orlando\, FL 32803
+DTSTART:20260820T120000Z
+SUMMARY:Reservation with ﻿Stage Check Ground School and Braden Porter
+UID:346953f0-ef17-479e-9a2f-404303164c06@3469.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260811T140000Z
+LOCATION:391 Herndon Ave Suite A\, Orlando\, FL 32803
+DTSTART:20260811T120000Z
+SUMMARY:Reservation with ﻿Stage Check Ground School and Braden Porter
+UID:c4e753c9-11d6-4970-af14-d3b06ba85665@c4e7.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260818T140000Z
+LOCATION:391 Herndon Ave Suite A\, Orlando\, FL 32803
+DTSTART:20260818T120000Z
+SUMMARY:Reservation with ﻿Stage Check Ground School and Braden Porter
+UID:5eed08ce-ddb7-47c6-bcfa-47b3470e403d@5eed.org
 END:VEVENT
 END:VCALENDAR
